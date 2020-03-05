@@ -102,7 +102,7 @@
 .menu-branding .portrait {
   width: 230px;
   height: 230px;
-  background: url("img/portrait1.png");
+  background: url("../img/portrait1.png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 50%;
