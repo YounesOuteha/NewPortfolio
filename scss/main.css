@@ -384,6 +384,11 @@ main#home h1 {
   height: 60px;
 }
 
+#img1:hover {
+  width: 80%;
+  height: 80%;
+}
+
 @media screen and (min-width: 1171px) {
   .projects {
     -ms-grid-columns: (1fr)[4];

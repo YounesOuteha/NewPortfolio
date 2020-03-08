@@ -165,6 +165,10 @@ main{
     background: darken($color: $primary-color, $amount: 10);
     height: 60px;
 }
+#img1:hover{
+    width: 80%;
+    height: 80%;
+}
 
 
 @import 'mobile';

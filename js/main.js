@@ -5,6 +5,8 @@ const menu = document.querySelector('.menu');
 const menuNav = document.querySelector('.menu-nav');
 const menuBranding = document.querySelector('.menu-branding');
 const navItem = document.querySelectorAll('.nav-item');
+const myProject1 = document.querySelector('.project1');
+const firstImg = document.querySelector('.img1');
 
 //Set the initial state of Menu
 let showMenu = false;
